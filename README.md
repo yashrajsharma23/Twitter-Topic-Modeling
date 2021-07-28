@@ -1,5 +1,5 @@
 # Twitter-Topic-Modeling
-- Scrapping tweets - Pre-processing - Bag of words - Tf-Idf - LDA - Visualization(Word Cloud, bar chart &amp; frequency plot)
+### Scrapping tweets - Pre-processing - Bag of words - Tf-Idf - LDA - Visualization(Word Cloud, bar chart &amp; frequency plot)
 
 - Scrapped the tweets using Tweepy library
 - Preprocessed the tweets
